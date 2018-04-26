@@ -67,12 +67,12 @@ public class SellPro extends javax.swing.JFrame {
             java.util.logging.Logger.getLogger(SellPro.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
         //</editor-fold>
-
+        JOptionPane.showConfirmDialog(null, "Hola mundo");
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new SellPro().setVisible(true);
-                JOptionPane.showConfirmDialog(null, "Hola mundo");
+                
             }
         });
     }
