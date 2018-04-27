@@ -21,7 +21,7 @@ public class Conexion {
             con = DriverManager.getConnection(URL, User , Password);
             
             Ruta = "C:\\Users\\ASUS\\Documents\\NetBeansProjects\\SellPro\\src";
-            File archivo= new File(Ruta);
+            File archivo= new File(Ruta );
             BufferedWriter bw;
              
             if (archivo.exists()!=true){
