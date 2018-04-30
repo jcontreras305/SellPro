@@ -11,7 +11,7 @@ public class main {
         UIManager.setLookAndFeel(new UpperEssentialLookAndFeel());
         
         //UIManager.setLookAndFeel(new UpperEssentialLookAndFeel("C:\\Users\\anaar_000\\Documents\\NetBeansProjects\\ejemplo\\src\\Lib UpperEssential\\Marino1.theme"));//nuevo y editae producto
-        UIManager.setLookAndFeel(new UpperEssentialLookAndFeel("C:\\Users\\anaar_000\\Documents\\NetBeansProjects\\ejemplo\\src\\Lib UpperEssential\\negro.theme"));
+        UIManager.setLookAndFeel(new UpperEssentialLookAndFeel("C:\\Users\\ASUS\\Documents\\NetBeansProjects\\SellPro\\src\\Lib UpperEssential\\negro.theme"));
         
 //        NuevoProducto lib=new NuevoProducto();
 //        lib.setLocationRelativeTo(null);
